@@ -30,30 +30,10 @@
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
----
-
-## 📊 GitHub Stats
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=krina2005&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krina2005&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🔥 Streaks
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=krina2005&theme=tokyonight" />
 </p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=krina2005&theme=tokyonight&no-frame=true&margin-w=5" />
-</p>
-
----
-
 <p align="center">
   🚀 Slowly improving, learning, and building new things every day.
 </p>
