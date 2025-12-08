@@ -65,13 +65,12 @@ const krina = {
 
 ## 📊 GitHub Stats
 
-<div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krina2005&show_icons=true&theme=radical&hide_rank=true&include_all_commits=true" alt="Stats" />
   
+  <br><br>
 
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=krina2005&theme=radical&hide_border=true)
-
-
+  <img src="https://streak-stats.demolab.com/?user=krina2005&theme=radical&hide_border=true" alt="Streak" />
 </div>
 
 ---
